@@ -1,0 +1,9 @@
+﻿EmployeeKey,EmployeeAltKey,FirstName,LastName,Title,BirthDate,HireDate,ReportsTo,GeographyKey,Phone,Fax,Email
+1,1,Andrew,Adams,General Manager,1962-02-18,2002-08-14,1,7,+1 (780) 428-9482,+1 (780) 428-3457,andrew@chinookcorp.com
+2,2,Nancy,Edwards,Sales Manager,1958-12-08,2002-05-01,2,40,+1 (403) 262-3443,+1 (403) 262-3322,nancy@chinookcorp.com
+3,3,Jane,Peacock,Sales Support Agent,1973-08-29,2002-04-01,3,6,+1 (403) 262-3443,+1 (403) 262-6712,jane@chinookcorp.com
+4,4,Margaret,Park,Sales Support Agent,1947-09-19,2003-05-03,4,31,+1 (403) 263-4423,+1 (403) 263-4289,margaret@chinookcorp.com
+5,5,Steve,Johnson,Sales Support Agent,1965-03-03,2003-10-17,5,35,1 (780) 836-9987,1 (780) 836-9543,steve@chinookcorp.com
+6,6,Michael,Mitchell,IT Manager,1973-07-01,2003-10-17,6,27,+1 (403) 246-9887,+1 (403) 246-9899,michael@chinookcorp.com
+7,7,Robert,King,IT Staff,1970-05-29,2004-01-02,7,28,+1 (403) 456-9986,+1 (403) 456-8485,robert@chinookcorp.com
+8,8,Laura,Callahan,IT Staff,1968-01-09,2004-03-04,8,42,+1 (403) 467-3351,+1 (403) 467-8772,laura@chinookcorp.com
